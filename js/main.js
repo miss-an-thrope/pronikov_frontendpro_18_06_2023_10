@@ -1,3 +1,5 @@
+// Homework №10
+
 let users = [
    { "index": 0, 
       "isActive": true, 
